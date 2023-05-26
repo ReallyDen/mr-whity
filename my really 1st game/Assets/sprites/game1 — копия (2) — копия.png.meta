@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: 6cd96b35f5ea34b4389e15cddca11a4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7045653153934494722
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_0"
+  - first:
+      213: 4354968683143947227
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_1"
+  - first:
+      213: -4393082713126695552
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_2"
+  - first:
+      213: 8075062980346188084
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_3"
+  - first:
+      213: 3357123446495454631
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_4"
+  - first:
+      213: -6492287392466922879
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_5"
+  - first:
+      213: 821224473158994979
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_6"
+  - first:
+      213: -7907782430172143155
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_7"
+  - first:
+      213: 5300844293989833821
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_8"
+  - first:
+      213: 2305902193753735294
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_9"
+  - first:
+      213: 2935613218643607618
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_10"
+  - first:
+      213: -249200932546131086
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_11"
+  - first:
+      213: -7885417826270969101
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_12"
+  - first:
+      213: -2466194854923905223
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_13"
+  - first:
+      213: -2011049311708672072
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_14"
+  - first:
+      213: -5736167205427651772
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_15"
+  - first:
+      213: 4345363977000450477
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_16"
+  - first:
+      213: -6243638914870864773
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_17"
+  - first:
+      213: -7873035426368692333
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_18"
+  - first:
+      213: 1510930791841863120
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_19"
+  - first:
+      213: -7367435817685976611
+    second: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_20"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_0"
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 593
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c40eac63037c160800000000000000
+      internalID: 7045653153934494722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_1"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 435
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3eeb691f4ff6c30800000000000000
+      internalID: 4354968683143947227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_2"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 435
+        width: 124
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d8c274c82a803c0800000000000000
+      internalID: -4393082713126695552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_3"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 444
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43111724ff2601070800000000000000
+      internalID: 8075062980346188084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_4"
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 436
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52f7fdcf5e69e20800000000000000
+      internalID: 3357123446495454631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_5"
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 434
+        width: 111
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1821340a303c6e5a0800000000000000
+      internalID: -6492287392466922879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_6"
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 423
+        width: 113
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ccf7bae43956b00800000000000000
+      internalID: 821224473158994979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_7"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 255
+        width: 174
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1a388e6c9e14290800000000000000
+      internalID: -7907782430172143155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_8"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 239
+        width: 115
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c9be0ecc1609940800000000000000
+      internalID: 5300844293989833821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_9"
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 260
+        width: 106
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e704c79f3d5300020800000000000000
+      internalID: 2305902193753735294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_10"
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 335
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24081373ba46db820800000000000000
+      internalID: 2935613218643607618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_11"
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 244
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b44e97219aa8cf0800000000000000
+      internalID: -249200932546131086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_12"
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 238
+        width: 114
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f20697044e519290800000000000000
+      internalID: -7885417826270969101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_13"
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 290
+        width: 15
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9375d5d88d056cdd0800000000000000
+      internalID: -2466194854923905223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_14"
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 234
+        width: 114
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf8fc55e415714e0800000000000000
+      internalID: -2011049311708672072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_15"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 48
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5d34715a0560b0800000000000000
+      internalID: -5736167205427651772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_16"
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 47
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f3eca385dd4c30800000000000000
+      internalID: 4345363977000450477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_17"
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 44
+        width: 156
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b741155bc732a59a0800000000000000
+      internalID: -6243638914870864773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_18"
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 38
+        width: 107
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f5a3b2efb5db290800000000000000
+      internalID: -7873035426368692333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_19"
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 35
+        width: 115
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d51fe7cc87e7f410800000000000000
+      internalID: 1510930791841863120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "game1 \u2014 \u043A\u043E\u043F\u0438\u044F (2) \u2014 \u043A\u043E\u043F\u0438\u044F_20"
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 39
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9765d782c91c990800000000000000
+      internalID: -7367435817685976611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

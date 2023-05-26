@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KillThing
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG2
+    uniqueID: 2170937351
+    locked: 0
+  - name: BackGround
+    uniqueID: 2412551031
+    locked: 0
+  - name: DopBg
+    uniqueID: 1062245929
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "\u043F\u0435\u0440\u0435\u0434"
+    uniqueID: 1783711227
+    locked: 0
