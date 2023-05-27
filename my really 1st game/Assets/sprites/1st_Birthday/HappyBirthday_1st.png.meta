@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 7d660b8c7cc9a5742838408b5fd4dd99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1919871185428309066
+    second: HappyBirthday_1st_0
+  - first:
+      213: 1382365187086090308
+    second: HappyBirthday_1st_1
+  - first:
+      213: 6853068882414373995
+    second: HappyBirthday_1st_2
+  - first:
+      213: 2713154784985552370
+    second: HappyBirthday_1st_3
+  - first:
+      213: -1092517000432555930
+    second: HappyBirthday_1st_4
+  - first:
+      213: -7891614050662669434
+    second: HappyBirthday_1st_5
+  - first:
+      213: -608692069791198125
+    second: HappyBirthday_1st_6
+  - first:
+      213: -4213371434877229786
+    second: HappyBirthday_1st_7
+  - first:
+      213: 5011676805862716070
+    second: HappyBirthday_1st_8
+  - first:
+      213: -816533337211713432
+    second: HappyBirthday_1st_9
+  - first:
+      213: 5822343353490767430
+    second: HappyBirthday_1st_10
+  - first:
+      213: 3030611110837094030
+    second: HappyBirthday_1st_11
+  - first:
+      213: 1013889846676716842
+    second: HappyBirthday_1st_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HappyBirthday_1st_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 656
+        width: 266
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb990a245f3b55e0800000000000000
+      internalID: -1919871185428309066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 763
+        width: 70
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440022640d52f2310800000000000000
+      internalID: 1382365187086090308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 759
+        width: 71
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c8795e6ddfa1f50800000000000000
+      internalID: 6853068882414373995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 893
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f517bbe6ef07a520800000000000000
+      internalID: 2713154784985552370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_4
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 685
+        width: 57
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6686426939996d0f0800000000000000
+      internalID: -1092517000432555930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 448
+        width: 145
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68325cd15da5b7290800000000000000
+      internalID: -7891614050662669434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 447
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3549f7a99cd7d87f0800000000000000
+      internalID: -608692069791198125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 451
+        width: 139
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6256d5dd0091785c0800000000000000
+      internalID: -4213371434877229786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_8
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 280
+        width: 198
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2f28e708d0d8540800000000000000
+      internalID: 5011676805862716070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 238
+        width: 121
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684b3881471ba4f0800000000000000
+      internalID: -816533337211713432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 235
+        width: 121
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e7c219e6e1dc050800000000000000
+      internalID: 5822343353490767430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 241
+        width: 150
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e860cc99fb4ee0a20800000000000000
+      internalID: 3030611110837094030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappyBirthday_1st_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 15
+        width: 74
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d7a88917f021e00800000000000000
+      internalID: 1013889846676716842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

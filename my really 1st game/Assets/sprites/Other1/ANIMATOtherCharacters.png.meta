@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: 9926826ce9b061e4599a0c0d2eee080f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -50668177001733087
+    second: ANIMATOtherCharacters_0
+  - first:
+      213: 6336788766909155592
+    second: ANIMATOtherCharacters_1
+  - first:
+      213: -5824329980851961274
+    second: ANIMATOtherCharacters_2
+  - first:
+      213: -7765207753446570826
+    second: ANIMATOtherCharacters_3
+  - first:
+      213: -4726877052622965115
+    second: ANIMATOtherCharacters_4
+  - first:
+      213: 8165744648553751836
+    second: ANIMATOtherCharacters_5
+  - first:
+      213: 4772134908361057669
+    second: ANIMATOtherCharacters_6
+  - first:
+      213: -2476145217174762960
+    second: ANIMATOtherCharacters_7
+  - first:
+      213: -8766101454668670374
+    second: ANIMATOtherCharacters_8
+  - first:
+      213: -6520614390778029474
+    second: ANIMATOtherCharacters_9
+  - first:
+      213: 8826463996708930387
+    second: ANIMATOtherCharacters_10
+  - first:
+      213: 716254856271701621
+    second: ANIMATOtherCharacters_11
+  - first:
+      213: 3950612049233105989
+    second: ANIMATOtherCharacters_12
+  - first:
+      213: -2226869567476734143
+    second: ANIMATOtherCharacters_13
+  - first:
+      213: -3045912937414929397
+    second: ANIMATOtherCharacters_14
+  - first:
+      213: -283672210524445614
+    second: ANIMATOtherCharacters_15
+  - first:
+      213: 4331148655634969740
+    second: ANIMATOtherCharacters_16
+  - first:
+      213: 725840777050873866
+    second: ANIMATOtherCharacters_17
+  - first:
+      213: 5047314803220545556
+    second: ANIMATOtherCharacters_18
+  - first:
+      213: 9067652980744064174
+    second: ANIMATOtherCharacters_19
+  - first:
+      213: -3897398585189249914
+    second: ANIMATOtherCharacters_20
+  - first:
+      213: -5612423239406988983
+    second: ANIMATOtherCharacters_21
+  - first:
+      213: -4333464520942443101
+    second: ANIMATOtherCharacters_22
+  - first:
+      213: 2121528991027282435
+    second: ANIMATOtherCharacters_23
+  - first:
+      213: -7463852924753336107
+    second: ANIMATOtherCharacters_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 862
+        width: 125
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124256cbf8dfb4ff0800000000000000
+      internalID: -50668177001733087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 858
+        width: 125
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8094e4c4fcbc0f750800000000000000
+      internalID: 6336788766909155592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 644
+        width: 146
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64249a4bdb2db2fa0800000000000000
+      internalID: -5824329980851961274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 644
+        width: 146
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b445b8a0b07c3490800000000000000
+      internalID: -7765207753446570826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 644
+        width: 146
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586767d5d52c66eb0800000000000000
+      internalID: -4726877052622965115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 443
+        width: 237
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e79f6e7d825170800000000000000
+      internalID: 8165744648553751836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 443
+        width: 236
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5852a115a670a3240800000000000000
+      internalID: 4772134908361057669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_7
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 539
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a040e4b07f2add0800000000000000
+      internalID: -2476145217174762960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_8
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 538
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a5079fb2d885680800000000000000
+      internalID: -8766101454668670374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_9
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 538
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a106062cf1285a0800000000000000
+      internalID: -6520614390778029474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 508
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3534c9a8d36ed7a70800000000000000
+      internalID: 8826463996708930387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 508
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57629b43ff5a0f900800000000000000
+      internalID: 716254856271701621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 509
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544daef3ab463d630800000000000000
+      internalID: 3950612049233105989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 477
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147eb654de19811e0800000000000000
+      internalID: -2226869567476734143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 475
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04dd94425ebab5d0800000000000000
+      internalID: -3045912937414929397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_15
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 474
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2546a03a0a1301cf0800000000000000
+      internalID: -283672210524445614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 446
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84788041c45b1c30800000000000000
+      internalID: 4331148655634969740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_17
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 446
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a006c9f4754b21a00800000000000000
+      internalID: 725840777050873866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_18
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 268
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410088b521aab0640800000000000000
+      internalID: 5047314803220545556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 268
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac03cfe756c6dd70800000000000000
+      internalID: 9067652980744064174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 268
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c4fa5d2a8a9e9c0800000000000000
+      internalID: -3897398585189249914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 42
+        width: 174
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941dff5bccaac12b0800000000000000
+      internalID: -5612423239406988983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 42
+        width: 174
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5a7765af07cd3c0800000000000000
+      internalID: -4333464520942443101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_23
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 42
+        width: 174
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302cfd2806f217d10800000000000000
+      internalID: 2121528991027282435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ANIMATOtherCharacters_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 858
+        width: 124
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d821546f411b6890800000000000000
+      internalID: -7463852924753336107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
