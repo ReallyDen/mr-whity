@@ -104,6 +104,14 @@ public class PlayerScript2D : MonoBehaviour
             SceneManager.LoadScene(9);
             Time.timeScale = 1f;
         }
+
+        if (other.tag == "Respawn1")
+        {
+            SceneManager.LoadScene(10);
+            Time.timeScale = 1f;
+        }
+
+
     }
 
 

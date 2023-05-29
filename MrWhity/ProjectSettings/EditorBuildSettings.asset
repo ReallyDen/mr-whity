@@ -35,4 +35,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Runner_1.unity
     guid: 125d7cadb26662f40bfc5e54a76a8b45
+  - enabled: 1
+    path: Assets/Scenes/Runner_2.unity
+    guid: 474eea7154b65534fa3389b567534bc1
+  - enabled: 1
+    path: Assets/Scenes/mejRunner12.unity
+    guid: 419afab0f99a24b4a8cd6d1404667c3e
   m_configObjects: {}

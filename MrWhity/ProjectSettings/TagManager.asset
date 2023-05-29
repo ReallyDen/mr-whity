@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - KillThing
+  - Respawn1
   layers:
   - Default
   - TransparentFX
