@@ -36,7 +36,7 @@ public class PlayerScript2D : MonoBehaviour
             rb.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
         }
 
-        // HorizontalMove = joystick.Horizontal * speed;
+         //HorizontalMove = joystick.Horizontal * speed;
         HorizontalMove = Input.GetAxisRaw("Horizontal") * speed; //вкл когда делаешь пк билд!! Ставь // в самом начале когда андроид!!
 
         animator.SetFloat("HorizontalMove", Mathf.Abs(HorizontalMove));
