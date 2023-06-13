@@ -6,16 +6,16 @@ public class pause : MonoBehaviour
 {
     public GameObject panel;
     public KeyCode spaceKey;
-    public bool paused = false;
+    public static bool paused = false;
 
-    public void Pause()
+    public static void Pause()
     {
         panel.SetActive(true);
         Time.timeScale = 0;
         paused = true;
     }
 
-    public void Continue()
+    public static void Continue()
     {
         panel.SetActive(false);
         Time.timeScale = 1;
