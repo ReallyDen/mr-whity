@@ -8,13 +8,14 @@ public class Dialogue4 : MonoBehaviour
     public GameObject panel;
     public Text TextDialog;
     public string[] message;
+    public int soCool = 0;
     public bool StartDialog = false;
 
     void Start()
     {
         message[0] = "Приветствую тебя, новичек, в нашем небольшом городке, я его мэр Звездодед. (нажмите Е для продолжения)";
-        message[1] = "Я также являюсь его основателем, с одним моим очень хорошим другом, но к сожалению, он не дожил до наших дней.. (нажмите R для продолжения)";
-        message[2] = "Раньше я был более ярким и светлым, но как видишь, старость дает о себе знать, он тоже был.. золотым, как и я. (Нажмите Т для продолжения) ";
+        message[1] = "Я также являюсь его основателем, с одним моим очень хорошим другом, но к сожалению, он не дожил до наших дней.. (нажмите Е для продолжения)";
+        message[2] = "Раньше я был более ярким и светлым, но как видишь, старость дает о себе знать, он тоже был.. золотым, как и я. (Нажмите Е для продолжения) ";
         message[3] = "Вообщем, хочу тебе пожелать хорошо провести время. Даже если ты заглянул к нам не на долго, будем рады видеть тебя еще!";
         panel.SetActive(false);
     }
@@ -24,7 +25,7 @@ public class Dialogue4 : MonoBehaviour
         if (collision.tag == "Player")
         {
             panel.SetActive(true);
-            TextDialog.text = message[0];
+            TextDialog.text = message[soCool];
             StartDialog = true;
         }
     }
@@ -39,25 +40,10 @@ public class Dialogue4 : MonoBehaviour
     {
         if (StartDialog == true)
         {
-            if (Input.GetKeyDown(KeyCode.E))
+            if (Input.GetKeyDown(KeyCode.E) && soCool < message.Length)
             {
-                TextDialog.text = message[1];
-            }
-        }
-
-        if (StartDialog == true);
-        {
-            if (Input.GetKeyDown(KeyCode.R))
-            {
-                TextDialog.text = message[2];
-            }
-        }
-
-        if (StartDialog == true) ;
-        {
-            if (Input.GetKeyDown(KeyCode.T))
-            {
-                TextDialog.text = message[3];
+                soCool += 1;
+                TextDialog.text = message[soCool];
             }
         }
     }
