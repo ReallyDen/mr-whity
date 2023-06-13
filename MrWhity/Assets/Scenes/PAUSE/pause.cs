@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class pause : MonoBehaviour
+public static class pause : MonoBehaviour
 {
-    public GameObject panel;
-    public KeyCode spaceKey;
+    public static GameObject panel;
+    public static KeyCode spaceKey;
     public static bool paused = false;
 
     public static void Pause()
@@ -22,7 +22,7 @@ public class pause : MonoBehaviour
         paused = false;
     }
 
-    public void ExitGame()
+    public static void ExitGame()
     {
         Application.Quit();
     }
