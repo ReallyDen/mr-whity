@@ -19,7 +19,7 @@ public class Settings : MonoBehaviour
     {
         panel.SetActive(false);
         oldPanel.SetActive(true);
-        settingOpen = false;
+        settingsOpen = false;
     }
 
 }
