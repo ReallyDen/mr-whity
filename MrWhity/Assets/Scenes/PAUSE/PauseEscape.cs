@@ -5,14 +5,19 @@ using UnityEngine;
 public class PauseEscape : MonoBehaviour
 {
 
-    public GameObject panel;
+    public GameObject panel; // а нафига это кстати..
 
     void Update()
     {
         if (Input.GetKeyDown("escape")) {
 
-            panel.SetActive(true);
-            Time.timeScale = 0;
+            if (pause.paused) {
+                pause.Continue();
+            }
+            else {
+                pause.Pause();
+            }
+
         }
     }
 }
