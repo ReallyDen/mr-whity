@@ -4,25 +4,39 @@ using UnityEngine;
 
 public class pause : MonoBehaviour
 {
-    public static GameObject panel;
-    public static KeyCode spaceKey;
-    public static bool paused = false;
+    public GameObject panel;
+    public KeyCode spaceKey;
+    public bool paused = false;
 
-    public static void Pause()
+    void Update() 
+     { 
+         if (Input.GetKeyDown("escape") && !Settings.settingsOpen) { 
+  
+             if (paused) { 
+                 Continue(); 
+             } 
+             else { 
+                 Pause(); 
+             } 
+  
+         } 
+     }
+
+    public void Pause()
     {
         panel.SetActive(true);
         Time.timeScale = 0;
         paused = true;
     }
 
-    public static void Continue()
+    public void Continue()
     {
         panel.SetActive(false);
         Time.timeScale = 1;
         paused = false;
     }
 
-    public static void ExitGame()
+    public void ExitGame()
     {
         Application.Quit();
     }
