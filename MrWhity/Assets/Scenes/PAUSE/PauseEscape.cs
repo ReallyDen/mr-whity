@@ -7,7 +7,7 @@ public class PauseEscape : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown("escape")) {
+        if (Input.GetKeyDown("escape") && !Settings.settingOpen) {
 
             if (pause.paused) {
                 pause.Continue();
