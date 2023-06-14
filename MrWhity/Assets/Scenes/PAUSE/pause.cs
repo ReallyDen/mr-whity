@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public static class pause : MonoBehaviour
+public class pause : MonoBehaviour
 {
     public static GameObject panel;
     public static KeyCode spaceKey;
