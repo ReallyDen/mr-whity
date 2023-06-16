@@ -31,7 +31,10 @@ public class PlayerScript2D : MonoBehaviour
 
     void Update()
     {
-        
+        if (isGrounded && Input.GetKeyDown(KeyCode.Space) && Time.timeScale > 0)
+        {
+            rb.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
+        }
 
         #if !UNITY_ANDROID
         HorizontalMove = Input.GetAxisRaw("Horizontal") * speed; // расслабуха :cool:
@@ -60,10 +63,7 @@ public class PlayerScript2D : MonoBehaviour
     private void FixedUpdate()
     {
         CheckGround();
-        if (isGrounded && Input.GetKeyDown(KeyCode.Space) && Time.timeScale > 0)
-        {
-            rb.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
-        }
+        
         Vector2 targetVelocity = new Vector2(HorizontalMove * 10f, rb.velocity.y);
         rb.velocity = targetVelocity;
     }
