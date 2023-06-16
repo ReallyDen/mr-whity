@@ -196,6 +196,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12778}
     - Class: 114
+      Script: {instanceID: 13004}
+    - Class: 114
       Script: {instanceID: 13036}
     - Class: 114
       Script: {instanceID: 13110}
@@ -263,18 +265,42 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 11340}
+    - Class: 114
+      Script: {instanceID: 11374}
+    - Class: 114
+      Script: {instanceID: 11752}
+    - Class: 114
       Script: {instanceID: 12752}
     - Class: 114
       Script: {instanceID: 12778}
     - Class: 114
+      Script: {instanceID: 13004}
+    - Class: 114
+      Script: {instanceID: 13036}
+    - Class: 114
+      Script: {instanceID: 13110}
+    - Class: 114
       Script: {instanceID: 13398}
+    - Class: 114
+      Script: {instanceID: 13620}
     - Class: 114
       Script: {instanceID: 13812}
     - Class: 114
+      Script: {instanceID: 13994}
+    - Class: 114
       Script: {instanceID: 14230}
     - Class: 114
+      Script: {instanceID: 14408}
+    - Class: 114
+      Script: {instanceID: 14674}
+    - Class: 114
       Script: {instanceID: 15398}
+    - Class: 114
+      Script: {instanceID: 15494}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
@@ -283,6 +309,12 @@ ScriptsOnlyBuild:
     - Class: 212
       Script: {instanceID: 0}
     - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
     Assets/Scenes/BackRooms/BackRoom2.unity:
     - Class: 1
@@ -316,15 +348,25 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
+      Script: {instanceID: 11340}
+    - Class: 114
+      Script: {instanceID: 11374}
+    - Class: 114
       Script: {instanceID: 12752}
     - Class: 114
       Script: {instanceID: 12778}
     - Class: 114
+      Script: {instanceID: 13004}
+    - Class: 114
       Script: {instanceID: 13398}
+    - Class: 114
+      Script: {instanceID: 13620}
     - Class: 114
       Script: {instanceID: 13812}
     - Class: 114
       Script: {instanceID: 14230}
+    - Class: 114
+      Script: {instanceID: 14674}
     - Class: 114
       Script: {instanceID: 15398}
     - Class: 115
@@ -336,6 +378,12 @@ ScriptsOnlyBuild:
     - Class: 212
       Script: {instanceID: 0}
     - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
     Assets/Scenes/BackRooms/BackRoom3.unity:
     - Class: 1
@@ -438,6 +486,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12778}
     - Class: 114
+      Script: {instanceID: 13004}
+    - Class: 114
       Script: {instanceID: 13036}
     - Class: 114
       Script: {instanceID: 13110}
@@ -506,6 +556,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
@@ -561,7 +615,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 15564}
     - Class: 114
-      Script: {instanceID: 97708}
+      Script: {instanceID: 24098}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -707,6 +761,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12778}
     - Class: 114
+      Script: {instanceID: 13004}
+    - Class: 114
       Script: {instanceID: 13036}
     - Class: 114
       Script: {instanceID: 13110}
@@ -795,6 +851,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12752}
     - Class: 114
       Script: {instanceID: 12778}
+    - Class: 114
+      Script: {instanceID: 13004}
     - Class: 114
       Script: {instanceID: 13036}
     - Class: 114
@@ -922,6 +980,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 15462}
     - Class: 114
       Script: {instanceID: 15494}
+    - Class: 114
+      Script: {instanceID: 21494}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -985,6 +1045,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12752}
     - Class: 114
       Script: {instanceID: 12778}
+    - Class: 114
+      Script: {instanceID: 13004}
     - Class: 114
       Script: {instanceID: 13036}
     - Class: 114
@@ -1076,7 +1138,7 @@ ScriptsOnlyBuild:
     className: TMP_Dropdown
   - hash:
       serializedVersion: 2
-      Hash: ea8f18a5296ef465b6bf01c12e0ec9d0
+      Hash: 276ab0a870f6377021d1e5739b9e2b4b
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Dialogue4
@@ -1556,7 +1618,7 @@ ScriptsOnlyBuild:
     className: CinemachineBlendListCamera
   - hash:
       serializedVersion: 2
-      Hash: 46c4f194263714dcea84e83ee75a8245
+      Hash: eb946a7903f67373e6c1df11a5cff28a
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: pause
@@ -1940,4 +2002,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Runner_1.unity
   - Assets/Scenes/Runner_2.unity
   - Assets/Scenes/mejRunner12.unity
-  playerPath: D:/MyGame/MrWhity/v0.4.5/MrWhity_v0.5.exe
+  playerPath: D:/MyGame/MrWhity/v0.5.2/MrWhity.exe

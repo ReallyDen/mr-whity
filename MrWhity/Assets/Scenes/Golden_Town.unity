@@ -1864,6 +1864,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panel: {fileID: 895873432}
   spaceKey: 0
+  paused: 0
 --- !u!1 &248813520
 GameObject:
   m_ObjectHideFlags: 0
@@ -4670,7 +4671,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -57.34, y: -0.64}
+  m_AnchoredPosition: {x: -59.3, y: 4.2}
   m_SizeDelta: {x: 1350.2368, y: 664.4553}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &668136340
@@ -10687,7 +10688,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 12, y: -142}
+  m_AnchoredPosition: {x: 285.49994, y: -114.80003}
   m_SizeDelta: {x: 416.23718, y: 159.97748}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1698715105

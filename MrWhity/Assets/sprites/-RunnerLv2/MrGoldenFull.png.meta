@@ -1,7 +1,94 @@
 fileFormatVersion: 2
 guid: 87382b9491bc89240b68e27c1cf9b610
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4888440282370950211
+    second: MrGoldenFull_0
+  - first:
+      213: 1371243605796187275
+    second: MrGoldenFull_1
+  - first:
+      213: -5906755107808013845
+    second: MrGoldenFull_2
+  - first:
+      213: -4215990300329285360
+    second: MrGoldenFull_3
+  - first:
+      213: -697909411575102924
+    second: MrGoldenFull_4
+  - first:
+      213: -5939478800833764387
+    second: MrGoldenFull_5
+  - first:
+      213: -2947264011352850611
+    second: MrGoldenFull_6
+  - first:
+      213: 7676139918291186320
+    second: MrGoldenFull_7
+  - first:
+      213: -6910890398532521897
+    second: MrGoldenFull_8
+  - first:
+      213: 7423499137545966592
+    second: MrGoldenFull_9
+  - first:
+      213: 2770112001279670151
+    second: MrGoldenFull_10
+  - first:
+      213: 7806544596996574447
+    second: MrGoldenFull_11
+  - first:
+      213: 2209247033508138322
+    second: MrGoldenFull_12
+  - first:
+      213: 260687363250896564
+    second: MrGoldenFull_13
+  - first:
+      213: 7618180137291791131
+    second: MrGoldenFull_14
+  - first:
+      213: -8966295042839384673
+    second: MrGoldenFull_15
+  - first:
+      213: 7303605923089009627
+    second: MrGoldenFull_16
+  - first:
+      213: -64245011147885580
+    second: MrGoldenFull_17
+  - first:
+      213: 8329701147590329397
+    second: MrGoldenFull_18
+  - first:
+      213: -3304178200074883230
+    second: MrGoldenFull_19
+  - first:
+      213: -7420869921199925641
+    second: MrGoldenFull_20
+  - first:
+      213: -7133327172363683820
+    second: MrGoldenFull_21
+  - first:
+      213: 5889043003932412663
+    second: MrGoldenFull_22
+  - first:
+      213: -6091791370872094729
+    second: MrGoldenFull_23
+  - first:
+      213: -6474520276121586628
+    second: MrGoldenFull_24
+  - first:
+      213: -8972189828771522891
+    second: MrGoldenFull_25
+  - first:
+      213: -2074678392008850189
+    second: MrGoldenFull_26
+  - first:
+      213: 1066685585429282142
+    second: MrGoldenFull_27
+  - first:
+      213: 574998289517703912
+    second: MrGoldenFull_28
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +127,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +158,642 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: MrGoldenFull_0
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 460
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3444e68698a37d340800000000000000
+      internalID: 4888440282370950211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 461
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ce1085bc2a70310800000000000000
+      internalID: 1371243605796187275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 460
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be111e7568df60ea0800000000000000
+      internalID: -5906755107808013845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 460
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019616cb82bcd75c0800000000000000
+      internalID: -4215990300329285360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 461
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4320aad76178056f0800000000000000
+      internalID: -697909411575102924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 462
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd32755df7bb29da0800000000000000
+      internalID: -5939478800833764387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_6
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 462
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f35083ff63917d0800000000000000
+      internalID: -2947264011352850611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 463
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09231f3f590278a60800000000000000
+      internalID: 7676139918291186320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 431
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750bfc94cc59710a0800000000000000
+      internalID: -6910890398532521897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 465
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00498db5221950760800000000000000
+      internalID: 7423499137545966592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 428
+        width: 62
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7873250403a617620800000000000000
+      internalID: 2770112001279670151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_11
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 418
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecc93b33fa665c60800000000000000
+      internalID: 7806544596996574447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 429
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d865dc872d8ae10800000000000000
+      internalID: 2209247033508138322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_13
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 431
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beb00496c52e9300800000000000000
+      internalID: 260687363250896564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 363
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bb636d87639b960800000000000000
+      internalID: 7618180137291791131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 216
+        width: 117
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d663cf922519380800000000000000
+      internalID: -8966295042839384673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_16
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 342
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbc82114ee9b5560800000000000000
+      internalID: 7303605923089009627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 35
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f370f3b081cb1ff0800000000000000
+      internalID: -64245011147885580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5340943af0b099370800000000000000
+      internalID: 8329701147590329397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 36
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f62fdee633522d0800000000000000
+      internalID: -3304178200074883230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_20
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 35
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7765f76cf16c30990800000000000000
+      internalID: -7420869921199925641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_21
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 35
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418fe901bb4510d90800000000000000
+      internalID: -7133327172363683820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_22
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 35
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa046c19651ab150800000000000000
+      internalID: 5889043003932412663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_23
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 36
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fff06d160c957ba0800000000000000
+      internalID: -6091791370872094729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 422
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3475b2cc12e526a0800000000000000
+      internalID: -6474520276121586628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 416
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b653be23e06c7380800000000000000
+      internalID: -8972189828771522891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_26
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 419
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4422d9ef24533e0800000000000000
+      internalID: -2074678392008850189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_27
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 419
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dba8e63e0adce00800000000000000
+      internalID: 1066685585429282142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MrGoldenFull_28
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 420
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2f829d5edcaf700800000000000000
+      internalID: 574998289517703912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

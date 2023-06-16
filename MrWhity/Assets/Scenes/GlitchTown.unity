@@ -2832,6 +2832,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panel: {fileID: 1502654438}
   spaceKey: 0
+  paused: 0
 --- !u!1 &681495512
 GameObject:
   m_ObjectHideFlags: 0
