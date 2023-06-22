@@ -16,7 +16,7 @@ public class CutsceneManager : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.E))
         {
-            currentTimeline.time = currentTimeline.duration; ; //скипаем
+            currentTimeline.time = currentTimeline.duration; //скипаем
         }
     }
 }
