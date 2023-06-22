@@ -62,10 +62,10 @@ public class PlayerScript2D : MonoBehaviour
     }
     private void FixedUpdate()
     {
+        CheckGround();
+        
         Vector2 targetVelocity = new Vector2(HorizontalMove * 10f, rb.velocity.y);
         rb.velocity = targetVelocity;
-
-        CheckGround();
     }
 
     public void OnJumpButtonDown()
