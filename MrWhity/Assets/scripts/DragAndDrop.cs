@@ -22,7 +22,7 @@ public class DragAndDrop : MonoBehaviour, IBeginDragHandler, IEndDragHandler, ID
         if (draggingrn) {
             Vector3 worldPoint = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             Vector2 worldPoint2d = new Vector2(worldPoint.x, worldPoint.y);
-            rb2D.movePosition(worldPoint2d);
+            rb2D.MovePosition(worldPoint2d);
         }
     }
     public void OnBeginDrag(PointerEventData eventData)
