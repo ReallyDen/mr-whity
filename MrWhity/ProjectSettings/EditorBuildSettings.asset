@@ -41,4 +41,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/mejRunner12.unity
     guid: 419afab0f99a24b4a8cd6d1404667c3e
+  - enabled: 1
+    path: Assets/Scenes/Dream.unity
+    guid: baf54252b8f5818409680c1cd8411a9a
+  - enabled: 1
+    path: Assets/Scenes/PreBossFight.unity
+    guid: dffad8d6b4301684e862237b10f07f8b
   m_configObjects: {}
