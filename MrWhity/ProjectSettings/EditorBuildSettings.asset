@@ -47,4 +47,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PreBossFight.unity
     guid: dffad8d6b4301684e862237b10f07f8b
+  - enabled: 1
+    path: Assets/Scenes/DLC-Menu.unity
+    guid: 4c26bb8f8e7311b47b442f959f130347
   m_configObjects: {}
