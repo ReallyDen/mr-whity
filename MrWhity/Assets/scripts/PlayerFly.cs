@@ -11,6 +11,10 @@ public class PlayerFly : MonoBehaviour
     public float Xincrement;
     public float speed;
 
+    private float HorizontalMove = 0f;
+    private bool FacingRight = true;
+
+
 
     private void Update()
     {
@@ -37,5 +41,6 @@ public class PlayerFly : MonoBehaviour
         {
             targetPos = new Vector2(transform.position.x - Xincrement, transform.position.y);
         }
+
     }
 }
