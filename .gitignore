@@ -70,3 +70,5 @@ MrWhity/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 # Temporary auto-generated Android Assets
 MrWhity/[Aa]ssets/[Ss]treamingAssets/aa.meta
 MrWhity/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+MrWhity/.vscode/
