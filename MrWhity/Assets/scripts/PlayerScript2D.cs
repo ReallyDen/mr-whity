@@ -9,10 +9,12 @@ public class PlayerScript2D : MonoBehaviour
     private float HorizontalMove = 0f;      // ну типа то что ты идешь вродь по горизонтали
     private bool FacingRight = true;        // По дефолту смотришь направо
 
+
     public Joystick joystick; // Туда надо закинуть жойстик в иерархии лол
 
     [Header("Player Movement Settings")]
     [Range(0, 10f)] public float speed = 1f;       // устонавливаем скорость в иерархии        (в скобках предел от 0 до 10, можно поменять) 
+    public float maxspeed = 10f;
     [Range(0, 15f)] public float jumpForce = 8f;   // устонавливаем силу прыжка в иерархии     (в скобках предел от 0 до 15, можно поменять) 
 
     [Header("Player Animation Settings")]
@@ -26,6 +28,7 @@ public class PlayerScript2D : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();  // добавляем нашему игроку рижит бади
+        maxspeed = Mathf.Max(maxspeed, speed*10f); // макс скорость не должна быть меньше скорости чтобы не замедлять вайти.. 
     }
    
 
@@ -62,10 +65,11 @@ public class PlayerScript2D : MonoBehaviour
     }
     private void FixedUpdate()
     {
+
         CheckGround();       // проверка пола
 
         Vector2 targetVelocity = new Vector2(HorizontalMove * 10f, rb.velocity.y);
-        rb.velocity = targetVelocity;
+        rb.velocity = Vector2.ClampMagnitude(targetVelocity, maxspeed); // ха лимит скорости жесть
     }
 
     public void OnJumpButtonDown()     // кнопка для прыжка на телефон (сука не забыдь поставить на нон чтобы срабатывало при нажатии, а не отжатии) 
